@@ -32,25 +32,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Advanced
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Learning
           link:
 
-        - item: Snowboarding
+        - item: Surfing
           link:
 
-        - item: Cooking
+        - item: Playing basketball
           link:
 
 career-profile:
@@ -65,9 +62,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: MSc in Finance (Banking) with Merit
         university: University of London
-        time: 2011 - 2012
+        time: 2019 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +73,20 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Economist
+        university: Universidad Católica Santo Toribio de Mogrovejo
+        time: 2013
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: Bachelor's degree in Economics
+        university: Universidad Católica Santo Toribio de Mogrovejo
+        time: 2006 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
