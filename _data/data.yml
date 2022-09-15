@@ -191,6 +191,10 @@ projects:
         link: https://github.com/pportocarrero/liability_management_operations
         tagline: "A versatile tool to simulate liability management operations using sovereign bonds of Peru."
 
+      - title: Petroperu dashboard
+        link: https://petroperu-dashboard.streamlitapp.com/
+        tagline: "A dashboard to analyse financial statements and financial ratios for the company."
+
       - title: Investor Relations management tool
         link: "#"
         tagline: "A comprehensive tool to manage the investor relations program of Peru."
