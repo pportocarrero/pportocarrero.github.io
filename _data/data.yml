@@ -41,7 +41,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Love playing with my kid
+        - item: My family
           link:
 
         - item: Learning
@@ -180,7 +180,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Macrofinancial dashboard
-        link: "#hook"
+        link: https://github.com/pportocarrero/Macrofinancial-dashboard
         tagline: "An intuitive, no frisk tool to follow financial markets and macroeconomic indicators of United States and Peru."
 
       - title: Sovereign ALM and financial dashboard
