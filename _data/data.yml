@@ -179,25 +179,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Macrofinancial dashboard
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An intuitive, no frisk tool to follow financial markets and macroeconomic indicators of United States and Peru."
 
-      - title: DevStudio
+      - title: Sovereign ALM and financial dashboard
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A dashboard providing information about assets and liabilities of the Republic of Peru, and financial indicators relevant to our macrofinancial analysis."
 
-      - title: Tempo
+      - title: Liability management operations tool
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A versatile tool to simulate liability management operations using sovereign bonds of Peru."
 
-      - title: Atom
+      - title: Investor Relations management tool
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A comprehensive tool to manage the investor relations program of Peru."
 
-      - title: Delta
+      - title: Covid-19 Peru tracker
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A dashboard to track daily cases and deaths due to Covid-19 in Peru and its regions. It also shows dominant lineages and sublineages in the country."
 
 publications:
     title: Relevant training
