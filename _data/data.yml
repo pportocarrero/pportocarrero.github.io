@@ -184,11 +184,11 @@ projects:
         tagline: "An intuitive, no frisk tool to follow financial markets and macroeconomic indicators of United States and Peru."
 
       - title: Sovereign ALM and financial dashboard
-        link: "#"
+        link: https://seguimiento-egiap.streamlitapp.com/
         tagline: "A dashboard providing information about assets and liabilities of the Republic of Peru, and financial indicators relevant to our macrofinancial analysis."
 
       - title: Liability management operations tool
-        link: "#"
+        link: https://github.com/pportocarrero/liability_management_operations
         tagline: "A versatile tool to simulate liability management operations using sovereign bonds of Peru."
 
       - title: Investor Relations management tool
@@ -196,7 +196,7 @@ projects:
         tagline: "A comprehensive tool to manage the investor relations program of Peru."
 
       - title: Covid-19 Peru tracker
-        link: "#"
+        link: https://github.com/pportocarrero/Covid-19
         tagline: "A dashboard to track daily cases and deaths due to Covid-19 in Peru and its regions. It also shows dominant lineages and sublineages in the country."
 
 publications:
