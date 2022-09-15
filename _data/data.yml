@@ -101,7 +101,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior consultant, financial stratragy
+      - role: Consultant, financial stratragy
         time: 2022 - Present
         company: Ministry of Economy and Finance, Lima
         details: |
@@ -210,30 +210,81 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      
+      - title: Data Science for Investment Professionals Specialization
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: CFA Institute
+        conference: Ongoing
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Capital Markets and Investment Portfolios (in Spanish)
+        link: https://drive.google.com/file/d/1BXiWYGeMkKe_6owJ-HmidYDeiVMmIQC-/view?usp=sharing
+        authors: Universidad de Lima
+        conference: 2022
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Public Debt Dynamics Under Uncertainty
+        link: https://drive.google.com/file/d/1QSMKY-LtQJdHKR6P8K8euizfyczCdDlm/view?usp=sharing
+        authors: International Monetary Fund
+        conference: 2022
+
+      - title: Projecting Public Debt - The Public Debt Dynamics
+        link: https://drive.google.com/file/d/1GaVEsXvTS2ju-gVFEwmJdxw7h11SJbYT/view?usp=sharing
+        authors: International Monetary Fund
+        conference: 2022
+
+      - title: Medium-term Debt Management Strategy
+        link: https://drive.google.com/file/d/1uxvPQfN8n9VGB7Lcu9nBbZKOhFCUtJwO/view?usp=sharing
+        authors: International Monetary Fund
+        conference: 2021
+
+      - title: Inclusive Growth
+        link: https://drive.google.com/file/d/1J7HHFioy69fxVJq8hDE3-JTTgkXzRn4Z/view?usp=sharing
+        authors: International Monetary Fund
+        conference: 2021
+
+      - title: Public Financial Management
+        link: https://drive.google.com/file/d/1UPy9HqClBsKTWcknt0oqAH72Vn5lxUU8/view?usp=sharing
+        authors: International Monetary Fund
+        conference: 2020
+
+      - title: Financial Market Analysis
+        link: https://drive.google.com/file/d/1n3iNrYwSX0fH-F4P6TRtQ2seP-dY2C05/view?usp=sharing
+        authors: International Monetary Fund
+        conference: 2019
+
+      - title: Fixed Income Portfolio Management with Bloomberg (in Spanish)
+        link: https://drive.google.com/file/d/1NLQAScAjiKsZ5CpPs7aQE8pJbmNfinhT/view?usp=sharing
+        authors: Universidad Nacional de Ingeniería
+        conference: 2018
+
+      - title: Bloomberg Market Concepts
+        link: https://drive.google.com/file/d/1faKoiS392M4qokdd3F_02IwldH3YWn1T/view?usp=sharing
+        authors: Bloomberg
+        conference: 2018
+      
+      - title: Course on Design and Evaluation of Public Policies (in Spanish)
+        link: https://drive.google.com/file/d/1kDG_8EbGNp_1t1ftIbek8XjsYkfZ2uij/view?usp=sharing
+        authors: Pontificia Universidad Católica del Perú
+        conference: 2018
+
+      - title: Macroeconomics and Econometrics Training Course (in Spanish)
+        link: https://drive.google.com/file/d/160MUgTKOXXup33QlDbOO0xDusvlizLMX/view?usp=sharing
+        authors: Central Reserve Bank of Peru
+        conference: 2012
+      
+      - title: Training Course on Economics and Finance (in Spanish)
+        link: https://drive.google.com/file/d/1cvfsapyS0MomdN_gO1W4RZ8r07s8yJia/view?usp=sharing
+        authors: Superintendence of Bank, Insurance and Pension Funds
+        conference: 2012
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Visual Basic for Applications
-        level: 100%
+        level: 90%
 
       - name: Microsoft Office
-        level: 100%
+        level: 90%
 
       - name: Bloomberg
         level: 80%
