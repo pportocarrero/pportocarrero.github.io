@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: pedroportocarreromoreno@gmail.com
-    # phone: 012 345 6789
+    phone:
     timezone:
     citizenship:
-    website:  #do not add http://
+    website:  # do not add http://
     linkedin: pportocarrero
     xing: 
     github: pportocarrero
@@ -41,6 +41,9 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Love playing with my kid
+          link:
+
         - item: Learning
           link:
 
