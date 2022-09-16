@@ -213,7 +213,7 @@ publications:
     papers:
       
       - title: Data Science for Investment Professionals Specialization
-        link: "#"
+        link: https://www.coursera.org/specializations/data-science-investment-professionals?
         authors: CFA Institute
         conference: Ongoing
 
