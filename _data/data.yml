@@ -315,17 +315,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Visual Basic for Applications
-        level: 90%
-
-      - name: Microsoft Office
-        level: 90%
-
       - name: Python
         level: 80%
 
+      - name: Visual Basic for Applications
+        level: 90%
+
       - name: Bloomberg
         level: 80%
+        
+      - name: Microsoft Office
+        level: 90%
 
       - name: Refinitiv Eikon
         level: 80%
