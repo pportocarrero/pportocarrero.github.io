@@ -316,13 +316,13 @@ skills:
       - name: Microsoft Office
         level: 90%
 
+      - name: Python
+        level: 80%
+
       - name: Bloomberg
         level: 80%
 
       - name: Refinitiv Eikon
-        level: 80%
-
-      - name: Python
         level: 80%
 
       - name: R
@@ -331,7 +331,7 @@ skills:
       - name: Latex
         level: 70%
 
-      - name: Eviews
+      - name: EViews
         level: 50%
 
 # footer: >
