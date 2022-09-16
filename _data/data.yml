@@ -65,7 +65,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree:  <a href="https://www.coursera.org/specializations/data-science-investment-professionals?">MSc in Finance (Banking) with Merit</a>
+      - degree:  <a href="https://drive.google.com/file/d/1fFe57CrkQiOM3w5r6FuOphqMkkqLeypa/view?usp=sharing">MSc in Finance (Banking) with Merit</a>
         university: University of London
         time: 2019 - 2021
         details: |
@@ -76,7 +76,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Economist
+      - degree: <a href="https://drive.google.com/file/d/1Af2DKEJ4yfEzkE0voofuGfBF3sChTGDz/view?usp=sharing">Economist</a>
         university: Universidad Católica Santo Toribio de Mogrovejo
         time: 2013
         details: |
@@ -87,7 +87,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Bachelor's degree in Economics
+      - degree: <a href="https://drive.google.com/file/d/1UIRmi3_KpJE9zdzTF4IjTHvUPNM_nLQl/view?usp=sharing">Bachelor's degree in Economics</a>
         university: Universidad Católica Santo Toribio de Mogrovejo
         time: 2006 - 2011
         details: |
@@ -231,6 +231,16 @@ publications:
         authors: International Monetary Fund
         conference: 2022
 
+      - title: Banking Strategy
+        link: https://drive.google.com/file/d/1MltjhpIQKhd04dJG8BTRwTMqb_XNBEYI/view?usp=sharing
+        authors: University of London (MSc Finance)
+        conference: 2021
+
+      - title: Corporate Finance
+        link: https://drive.google.com/file/d/1MltjhpIQKhd04dJG8BTRwTMqb_XNBEYI/view?usp=sharing
+        authors: University of London (MSc Finance)
+        conference: 2021
+      
       - title: Medium-term Debt Management Strategy
         link: https://drive.google.com/file/d/1uxvPQfN8n9VGB7Lcu9nBbZKOhFCUtJwO/view?usp=sharing
         authors: International Monetary Fund
@@ -241,10 +251,30 @@ publications:
         authors: International Monetary Fund
         conference: 2021
 
+      - title: Portfolio and Fund Management
+        link: https://drive.google.com/file/d/1MltjhpIQKhd04dJG8BTRwTMqb_XNBEYI/view?usp=sharing
+        authors: University of London (MSc Finance)
+        conference: 2020
+
+      - title: Corporate and Investment Banking
+        link: https://drive.google.com/file/d/1MltjhpIQKhd04dJG8BTRwTMqb_XNBEYI/view?usp=sharing
+        authors: University of London (MSc Finance)
+        conference: 2020
+
+      - title: Bank Financial Management
+        link: https://drive.google.com/file/d/1MltjhpIQKhd04dJG8BTRwTMqb_XNBEYI/view?usp=sharing
+        authors: University of London (MSc Finance)
+        conference: 2020
+
       - title: Public Financial Management
         link: https://drive.google.com/file/d/1UPy9HqClBsKTWcknt0oqAH72Vn5lxUU8/view?usp=sharing
         authors: International Monetary Fund
         conference: 2020
+
+      - title: Macroeconomic Policy and Financial Markets
+        link: https://drive.google.com/file/d/1MltjhpIQKhd04dJG8BTRwTMqb_XNBEYI/view?usp=sharing
+        authors: University of London (MSc Finance)
+        conference: 2019
 
       - title: Financial Market Analysis
         link: https://drive.google.com/file/d/1n3iNrYwSX0fH-F4P6TRtQ2seP-dY2C05/view?usp=sharing
