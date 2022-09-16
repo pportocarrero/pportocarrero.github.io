@@ -296,6 +296,11 @@ publications:
         authors: Pontificia Universidad Católica del Perú
         conference: 2018
 
+      - title: Training Course on Data Analysis with STATA (in Spanish)
+        link: https://drive.google.com/file/d/11KTguMjlZeXgyAxwN2S3PnujYerf69ND/view?usp=sharing
+        authors: Pontificia Universidad Católica del Perú
+        conference: 2015
+
       - title: Macroeconomics and Econometrics Training Course (in Spanish)
         link: https://drive.google.com/file/d/160MUgTKOXXup33QlDbOO0xDusvlizLMX/view?usp=sharing
         authors: Central Reserve Bank of Peru
@@ -326,6 +331,9 @@ skills:
         level: 80%
 
       - name: R
+        level: 70%
+      
+      - name: Stata
         level: 70%
 
       - name: Latex
