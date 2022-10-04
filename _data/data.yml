@@ -175,9 +175,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The following are some of the projects I have worked on. Some are actively updated and improved upon.
+      
     assignments:
       - title: Macrofinancial dashboard
         link: https://github.com/pportocarrero/Macrofinancial-dashboard
@@ -190,6 +189,10 @@ projects:
       - title: Liability management operations tool
         link: https://github.com/pportocarrero/liability_management_operations
         tagline: "A versatile tool to simulate liability management operations using sovereign bonds of Peru."
+
+      - title: Investment management with python notebooks
+        link: https://petroperu-dashboard.streamlitapp.com/
+        tagline: "A toolkit for investment management using python and jupyter notebooks."
 
       - title: Petroperu dashboard
         link: https://petroperu-dashboard.streamlitapp.com/
