@@ -192,7 +192,7 @@ projects:
 
       - title: Investment management with python notebooks
         link: https://github.com/pportocarrero/Investment-management-ml
-        tagline: "A toolkit for investment management using python and jupyter notebooks. Based on EDHEC Business School "Investment Management with Python and Machine Learning Specialization"."
+        tagline: "A toolkit for investment management using python and jupyter notebooks. Based on EDHEC Business School Investment Management with Python and Machine Learning Specialization."
 
       - title: Petroperu dashboard
         link: https://petroperu-dashboard.streamlitapp.com/
