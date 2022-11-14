@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -65,31 +65,25 @@ career-profile:
 education:
     title: Education
     info:
-      - degree:  <a href="https://1drv.ms/b/s!Aq0VhxRWTSvKjtEbOPyjYl65vm8B3A?e=wzP6Iq">MSc in Finance (Banking) with Merit</a>
+      - degree: MSc in Finance (Banking) with Merit
         university: University of London
-        time: 2019 - 2021
+        time: 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: <a href="https://1drv.ms/b/s!Aq0VhxRWTSvKjtEyzJyi8VPvRN_raA?e=Z36gDD">Economist</a>
+          Modules:
+            - Macroeconomic Policy and Financial Markets.
+            - Portfolio and Fund Management.
+            - Corporate and Investment Banking.
+            - Corporate Finance.
+            - Banking Strategy.
+            - Bank Financial Management.
+      - degree: Economist
         university: Universidad Católica Santo Toribio de Mogrovejo
         time: 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: <a href="https://1drv.ms/b/s!Aq0VhxRWTSvKjtE0may7iA-FL8sYIg?e=YKEtmE">Bachelor's degree in Economics</a>
+          Received my professional title in Economics in 2013 after presenting my dissertation on economic effects related to air pollution, graded as outstanding.
+      - degree: Bachelor's degree in Economics
         university: Universidad Católica Santo Toribio de Mogrovejo
-        time: 2006 - 2011
+        time: 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -199,7 +193,7 @@ projects:
         tagline: "A dashboard to analyse financial statements and financial ratios for the company."
 
       - title: Investor Relations management tool
-        link: "#"
+        link: https://github.com/pportocarrero/investor-relations-tool
         tagline: "A comprehensive tool to manage the investor relations program of Peru."
 
       - title: Covid-19 Peru tracker
