@@ -208,15 +208,30 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       
+      - title: Artificial Intelligence Program (ongoing)
+        link: 
+        authors: Escuela Nacional de Control
+        conference: 2023
+
+      - title: Machine Learning (ongoing)
+        link: 
+        authors: Universidad Politécnica de Madrid
+        conference: 2023
+
+      - title: Advanced topics in finance and financial markets (in Spanish)
+        link: https://1drv.ms/b/s!Aq0VhxRWTSvKncd784gADI_qnpbeZA?e=YzLqD5
+        authors: CAF
+        conference: 2023
+
+      - title: Financial economics (in Spanish)
+        link: https://1drv.ms/b/s!Aq0VhxRWTSvKndEoQs8AqVyER_uX5w?e=JYEpnd
+        authors: CAF
+        conference: 2023
+
       - title: Sovereign Asset and Liability Management Workshop
         link: https://1drv.ms/b/s!Aq0VhxRWTSvKj9x8ue-hP-4OfnIIow?e=8qV4jm
         authors: World Bank
         conference: 2022
-
-      - title: Data Science for Investment Professionals Specialization
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtB6qFHO7ok3Wzcoug?e=iJMTVW
-        authors: CFA Institute
-        conference: Ongoing
 
       - title: Capital Markets and Investment Portfolios (in Spanish)
         link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBmr4StzpdscmZmyg?e=RAqD9e
@@ -232,17 +247,7 @@ publications:
         link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEBj2JHVJqiUUo0Cg?e=CArkBC
         authors: International Monetary Fund
         conference: 2022
-
-      - title: Banking Strategy
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEUcIP4Fi-mRneXAg?e=OYmY06
-        authors: University of London (MSc Finance)
-        conference: 2021
-
-      - title: Corporate Finance
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEUcIP4Fi-mRneXAg?e=OYmY06
-        authors: University of London (MSc Finance)
-        conference: 2021
-      
+   
       - title: Medium-term Debt Management Strategy
         link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEEe7Pm-rDYbSFc0w?e=36TMoV
         authors: International Monetary Fund
@@ -253,30 +258,10 @@ publications:
         authors: International Monetary Fund
         conference: 2021
 
-      - title: Portfolio and Fund Management
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEUcIP4Fi-mRneXAg?e=OYmY06
-        authors: University of London (MSc Finance)
-        conference: 2020
-
-      - title: Corporate and Investment Banking
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEUcIP4Fi-mRneXAg?e=OYmY06
-        authors: University of London (MSc Finance)
-        conference: 2020
-
-      - title: Bank Financial Management
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEUcIP4Fi-mRneXAg?e=OYmY06
-        authors: University of London (MSc Finance)
-        conference: 2020
-
       - title: Public Financial Management
         link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtECgslseN61Th9I2Q?e=UtlF8W
         authors: International Monetary Fund
         conference: 2020
-
-      - title: Macroeconomic Policy and Financial Markets
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEUcIP4Fi-mRneXAg?e=OYmY06
-        authors: University of London (MSc Finance)
-        conference: 2019
 
       - title: Financial Market Analysis
         link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEG9BkBzytfZo_LGA?e=MYje6F
@@ -298,7 +283,7 @@ publications:
         authors: Pontificia Universidad Católica del Perú
         conference: 2018
 
-      - title: Training Course on Data Analysis with STATA (in Spanish)
+      - title: Training Course on Data Analysis with Stata (in Spanish)
         link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBdj_HqWPCHcvYGYA?e=fetJLz
         authors: Pontificia Universidad Católica del Perú
         conference: 2015
