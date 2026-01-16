@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Pedro Portocarrero
-    tagline: Economist especialized in finance
+    tagline: Economist especialized in finance, data science and machine learning
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,13 +44,10 @@ sidebar:
         - item: My family
           link:
 
-        - item: Love to learn
+        - item: Learning
           link:
 
-        - item: Surfing
-          link:
-
-        - item: Playing basketball
+        - item: Tennis, surfing, basketball, soccer
           link:
 
 career-profile:
@@ -65,6 +62,22 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: MSc in Data Science & Artificial Intelligence
+        university: University of London
+        time: 2025 -- Ongoing
+        details: |
+          Modules:
+            - Data Programming with Python (Finished).
+            - Statistics and Statistical Mining (Ongoing).
+            - Machine Learning (Ongoing).
+            - Neural Networks (Ongoing).
+            - Artificial Intelligence (Upcoming).
+            - Big Data Analysis (Upcoming).
+            - Data Visualization (Upcoming).
+            - Data Science Research Projects (Upcoming).
+            - Financial Markets (Upcoming).
+            - Financial Data Modelling (Upcoming).
+            - Dissertation (Upcoming).
       - degree: MSc in Finance (Banking) with Merit
         university: University of London
         time: 2021
@@ -95,8 +108,23 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Financial strategy, specialist
+        time: 2025 - Present
+        company: Ministry of Economy and Finance, Lima
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
       - role: Consultant, financial stratregy
-        time: 2022 - Present
+        time: 2022 - 2025
         company: Ministry of Economy and Finance, Lima
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -209,101 +237,76 @@ publications:
     papers:
       
       - title: Artificial Intelligence Program
-        link: 
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKvbcHAAAAAXn8U1ysETKE6qPLhAXWZZ8?e=42nqmq
         authors: Escuela Nacional de Control
         conference: 2023 (Ongoing)
 
       - title: Machine Learning
-        link: 
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKq5oHAAAAAZoctOWhihzKsdyeZPvJsxs?e=RQEhc8
         authors: Universidad Politécnica de Madrid
         conference: 2023 (Ongoing)
 
       - title: Advanced topics in finance and financial markets (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKncd784gADI_qnpbeZA?e=YzLqD5
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDK-2MHAAAAAeGfzkcbUSikwwd67xeM4iM?e=wzDHyb
         authors: CAF
         conference: 2023
 
       - title: Financial economics (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKndEoQs8AqVyER_uX5w?e=JYEpnd
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKqGgHAAAAAWl5h45K3yCtcidvdaWAAIs?e=DSbXOc
         authors: CAF
         conference: 2023
 
       - title: Sovereign Asset and Liability Management Workshop
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKj9x8ue-hP-4OfnIIow?e=8qV4jm
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKfO4DAAAAAcxyRMhMPocNFKnraSy2efw?e=AhiX2y
         authors: World Bank
         conference: 2022
 
       - title: Capital Markets and Investment Portfolios (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBmr4StzpdscmZmyg?e=RAqD9e
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKZqgDAAAAAWxFtypv5f2xW5et4X0q7TA?e=xP4ywa
         authors: Universidad de Lima
         conference: 2022
 
       - title: Public Debt Dynamics Under Uncertainty
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtB_E4b1hQRyik0MLA?e=7Zyz0N
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKf6gDAAAAATWYxI0MTPs3M3ruHixz9f4?e=KO0hjA
         authors: International Monetary Fund
         conference: 2022
 
       - title: Projecting Public Debt - The Public Debt Dynamics
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEBj2JHVJqiUUo0Cg?e=CArkBC
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKgagDAAAAAa_JubGMOStCC4nbIgKqp9I?e=4uhFfJ
         authors: International Monetary Fund
         conference: 2022
    
       - title: Medium-term Debt Management Strategy
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEEe7Pm-rDYbSFc0w?e=36TMoV
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKhKgDAAAAAZh90N7qEV8_U5Bi2K9bVjQ?e=6rpTmS
         authors: International Monetary Fund
         conference: 2021
 
       - title: Inclusive Growth
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEFnjiuQtJGAzImag?e=0WTC0m
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKhagDAAAAAWlLLBYv0kpGTQw7TyepfLU?e=B6V7nO
         authors: International Monetary Fund
         conference: 2021
 
       - title: Public Financial Management
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtECgslseN61Th9I2Q?e=UtlF8W
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKgqgDAAAAAUaYVDZtdwAc48ZKNFppKw8?e=gm16XN
         authors: International Monetary Fund
         conference: 2020
 
       - title: Financial Market Analysis
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtEG9BkBzytfZo_LGA?e=MYje6F
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKhqgDAAAAAcAMdGecoGx4ewTq26GHQDs?e=B0Ytny
         authors: International Monetary Fund
         conference: 2019
 
       - title: Fixed Income Portfolio Management with Bloomberg (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBzOzUqdMNB9Dn7Kw?e=KNQhZm
+        link: https://1drv.ms/b/c/ca2b4d56148715ad/IQCtFYcUVk0rIIDKhqgDAAAAAcAMdGecoGx4ewTq26GHQDs?e=B0Ytny
         authors: Universidad Nacional de Ingeniería
         conference: 2018
-
-      - title: Bloomberg Market Concepts
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBqIj2CBxYM3GEPdA?e=UeelJe
-        authors: Bloomberg
-        conference: 2018
-      
-      - title: Course on Design and Evaluation of Public Policies (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBjEC5ETd9LXheeSw?e=fR5GpY
-        authors: Pontificia Universidad Católica del Perú
-        conference: 2018
-
-      - title: Training Course on Data Analysis with Stata (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBdj_HqWPCHcvYGYA?e=fetJLz
-        authors: Pontificia Universidad Católica del Perú
-        conference: 2015
-
-      - title: Macroeconomics and Econometrics Training Course (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBod6FGTC6zOufp-A?e=g3zgE9
-        authors: Central Reserve Bank of Peru
-        conference: 2012
-      
-      - title: Training Course on Economics and Finance (in Spanish)
-        link: https://1drv.ms/b/s!Aq0VhxRWTSvKjtBhIJiBPs8tvR0f2w?e=QEzQ2g
-        authors: Superintendence of Bank, Insurance and Pension Funds
-        conference: 2012
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 75%
+        level: 85%
 
       - name: Visual Basic for Applications
         level: 90%
@@ -316,9 +319,6 @@ skills:
 
       - name: Refinitiv Eikon
         level: 80%
-
-      - name: Microsoft Office
-        level: 90%
       
       - name: Stata
         level: 70%
